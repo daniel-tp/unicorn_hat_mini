@@ -1,5 +1,4 @@
 use core::time;
-
 use rgb::RGB8;
 use unicorn_hat_mini::UnicornHATMini;
 
