@@ -1,4 +1,0 @@
-[build]
-target = "armv7-unknown-linux-gnueabihf"
-[target.armv7-unknown-linux-gnueabihf]
-linker = "E:\\Stuff\\Programming\\SysGCC\\bin\\arm-linux-gnueabihf-gcc.exe"
