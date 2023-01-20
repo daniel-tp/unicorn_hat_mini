@@ -18,6 +18,3 @@ rppal= "0.14"
 rgb = "0.8"
 thiserror = "1.0.37"
 ctrlc = "3.2.4"
-
-[dev-dependencies]
-palette = "0.6.1"
