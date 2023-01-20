@@ -1,0 +1,23 @@
+[package]
+name = "unicorn_hat_mini"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "unicorn_hat_mini"
+path = "src/lib.rs"
+
+[[bin]]
+name = "unicorn_hat_mini"
+path = "src/bin.rs"
+
+[dependencies]
+rppal= "0.14"
+rgb = "0.8"
+thiserror = "1.0.37"
+ctrlc = "3.2.4"
+
+[dev-dependencies]
+palette = "0.6.1"
